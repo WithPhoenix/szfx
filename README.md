@@ -1,10 +1,10 @@
 # SZFX
 ### Overview
-This is a rewrite of my C++17 linear algebra library in C++20
+This is a rewrite of my C++17 linear algebra library in C++20/23.
 The biggest change will be the use of Expression-Templates and enforcing compile-time (constexpr) evaluation whenever
 possible.
 
-szfx is my personal research and playground project alongside my university studies
+szfx is my personal research and playground project alongside my university studies. it grows continuously as i implement new methods from lectures i attend.
 
 ### (Planned) Features
 - C++>=20
